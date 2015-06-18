@@ -33,7 +33,7 @@ html {
         .myJumbotron {
             padding: 0;
             background-color: #67b2e4;
-            padding-bottom: 20px;
+            padding-bottom: 3px;
             h1 {
                 font-family: 'Overlock', cursive;
                 margin-left: 0;
@@ -46,17 +46,21 @@ html {
                 font-family: 'Fredoka One', cursive;
                 padding-left: 20px;    
                 font-size: 28px;
+                padding-bottom: 0;
                 margin: 0;
             }
             h3 {
-                padding-left: 40px;
                 font-family: 'Voces', cursive;
                 font-size: 18px;
-                padding-bottom: 7px;
-                margin-bottom: 0;
+                padding: 7px 0 7px 40px;
+                margin: 0;
                 .white {
                     color: white;    
                 }
+            }
+            img {
+                height: 300px;
+                padding: 10px 25px 5px 25px;
             }
         }
         .footer {

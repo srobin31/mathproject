@@ -33,30 +33,32 @@ html {
         .myJumbotron {
             padding: 0;
             background-color: #ed796d;
-            padding-bottom: 125px;
+            padding-bottom: 7px;
             h1 {
                 font-family: 'Overlock', cursive;
                 margin-left: 0;
                 text-align: center;
-                font-size: 72px;
+                font-size: 96px;
                 font-weight: bolder;
             }
             h2 {
                 color: #ffffff;
                 font-family: 'Fredoka One', cursive;
                 padding-left: 20px;    
-                font-size: 20px;
+                font-size: 28px;
                 margin: 0;
             }
             h3 {
-                padding-left: 40px;
                 font-family: 'Voces', cursive;
-                font-size: 14px;
-                padding-bottom: 7px;
-                margin-bottom: 0;
+                font-size: 18px;
+                padding: 7px 0 7px 40px;
+                margin: 0;
                 .white {
                     color: white;    
                 }
+            }
+            img {
+                padding: 10px 25px 5px 25px;
             }
         }
         .footer {
