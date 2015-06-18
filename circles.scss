@@ -1,0 +1,74 @@
+html {
+    body {
+        width: 100%;
+        margin: 0 0 0 0;
+        h1 {
+            padding-top: 50px;
+        }
+        td,
+        p {
+            text-align: center;
+        }
+        .navbar {
+            padding-right: 25px;
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            img {
+                height: 50px;
+                float: left;
+            }
+            .navbar-right li a {
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+        }
+        .navbar-title {
+            padding: 15px 15px 15px 15px;
+            color: #ffffff;
+        }
+        .myJumbotron {
+            padding: 0;
+            background-color: #ed796d;
+            padding-bottom: 125px;
+            h1 {
+                font-family: 'Overlock', cursive;
+                margin-left: 0;
+                text-align: center;
+                font-size: 72px;
+                font-weight: bolder;
+            }
+            h2 {
+                color: #ffffff;
+                font-family: 'Fredoka One', cursive;
+                padding-left: 20px;    
+                font-size: 20px;
+                margin: 0;
+            }
+            h3 {
+                padding-left: 40px;
+                font-family: 'Voces', cursive;
+                font-size: 14px;
+                padding-bottom: 7px;
+                margin-bottom: 0;
+                .white {
+                    color: white;    
+                }
+            }
+        }
+        .footer {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #000000;
+            p {
+                margin-bottom: 0;
+                font-family: "Comic Sans MS", cursive, sans-serif;
+                color: #ffffff;
+            }
+        }
+    }
+}

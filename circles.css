@@ -1,0 +1,73 @@
+/* line 2, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+html body {
+  width: 100%;
+  margin: 0 0 0 0; }
+  /* line 5, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+  html body h1 {
+    padding-top: 50px; }
+  /* line 9, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+  html body td, html body p {
+    text-align: center; }
+  /* line 12, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+  html body .navbar {
+    padding-right: 25px; }
+    /* line 14, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+    html body .navbar ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden; }
+    /* line 20, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+    html body .navbar img {
+      height: 50px;
+      float: left; }
+    /* line 24, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+    html body .navbar .navbar-right li a {
+      padding-left: 25px;
+      padding-right: 25px; }
+  /* line 29, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+  html body .navbar-title {
+    padding: 15px 15px 15px 15px;
+    color: #ffffff; }
+  /* line 33, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+  html body .myJumbotron {
+    padding: 0;
+    background-color: #ed796d;
+    padding-bottom: 125px; }
+    /* line 37, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+    html body .myJumbotron h1 {
+      font-family: 'Overlock', cursive;
+      margin-left: 0;
+      text-align: center;
+      font-size: 72px;
+      font-weight: bolder; }
+    /* line 44, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+    html body .myJumbotron h2 {
+      color: #ffffff;
+      font-family: 'Fredoka One', cursive;
+      padding-left: 20px;
+      font-size: 20px;
+      margin: 0; }
+    /* line 51, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+    html body .myJumbotron h3 {
+      padding-left: 40px;
+      font-family: 'Voces', cursive;
+      font-size: 14px;
+      padding-bottom: 7px;
+      margin-bottom: 0; }
+      /* line 57, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+      html body .myJumbotron h3 .white {
+        color: white; }
+  /* line 62, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+  html body .footer {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000; }
+    /* line 67, /Users/shawnrobin/Desktop/Final Math Project/circles.scss */
+    html body .footer p {
+      margin-bottom: 0;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      color: #ffffff; }
+
+/*# sourceMappingURL=circles.css.map */
